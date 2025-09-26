@@ -78,3 +78,5 @@ ai-music-app/
 ⚠️ Disclaimer
 
 This project is for educational and creative purposes only. Generated music may not be suitable for commercial use without proper licensing.
+
+By havish Munagala
