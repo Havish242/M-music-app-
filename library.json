@@ -1,0 +1,35 @@
+{
+  "tracks": [
+    {
+      "id": "6cefb987-0d8f-462d-9bcb-164e96a9f255",
+      "title": "Synthwave",
+      "file": "c:\\Users\\Admin\\OneDrive\\Desktop\\Programming\\Music app\\library\\sample_Synthwave.wav",
+      "duration": 18.0,
+      "prompt": "Upbeat synthwave with arpeggio and bass",
+      "created_at": "2025-09-26T16:02:39.290392Z"
+    },
+    {
+      "id": "6c269426-0690-4930-8d0d-8fa04ef5fc37",
+      "title": "Epic Orchestra",
+      "file": "c:\\Users\\Admin\\OneDrive\\Desktop\\Programming\\Music app\\library\\sample_Epic Orchestra.wav",
+      "duration": 20.0,
+      "prompt": "Epic orchestral soundtrack with violins and drums",
+      "created_at": "2025-09-26T16:02:39.198468Z"
+    },
+    {
+      "id": "2851833c-7cb4-4560-abb9-715a7b2dd3bb",
+      "title": "Lofi Rain",
+      "file": "c:\\Users\\Admin\\OneDrive\\Desktop\\Programming\\Music app\\library\\sample_Lofi Rain.wav",
+      "duration": 15.0,
+      "prompt": "Calm lofi with piano and rain sounds",
+      "created_at": "2025-09-26T16:02:39.079329Z"
+    }
+  ],
+  "playlists": [
+    {
+      "id": "92237993-eb6d-4b17-b994-12f28e9504e6",
+      "name": "kjkn",
+      "track_ids": []
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+streamlit
+numpy
+soundfile
+pydub
+scipy
+librosa
+
+# Optional (for MusicGen / better models):
+# torch
+# audiocraft
+# transformers
